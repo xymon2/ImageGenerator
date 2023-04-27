@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/3.0.6/40ac53fa1e5c53d15c7058603e26dd03a99223ae/spring-boot-configuration-processor-3.0.6.jar" />
+        </processorPath>
+        <module name="smoky-earlgrey.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.smokyearlgray.ImageGenerator" target="11" />
+      <module name="com.smokyearlgray.ImageGenerator.main" target="11" />
+      <module name="com.smokyearlgray.ImageGenerator.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
